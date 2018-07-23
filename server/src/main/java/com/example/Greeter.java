@@ -13,7 +13,7 @@ public class Greeter {
   }
 
   /**
-   *@param name 'dbfj'
+   *@param name the location of the image, relative to the url argument
    *@return 'sdbhdj'
    */
   public final String greet(final String someone) {
